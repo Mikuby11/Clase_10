@@ -7,7 +7,7 @@
   },
   {
     "imagen": "img/2.webp",
-    "titulo": "Cuchillos identicos",
+    "titulo": "Cuchillos idénticos",
     "categoria": "Laboratorio de prototipado",
     "descripcion": "Cuchillos basados en una kunai japonesa, hecha de acrílico verde y madera de alerce"
   },
@@ -19,15 +19,15 @@
   },
   {
     "imagen": "img/4.webp",
-    "titulo": "Taller 4: De vuelta a Casa (Juego de mesa)",
+    "titulo": "Taller 4: De vuelta a Casa",
     "categoria": "Proyecto Examen",
     "descripcion": "Juego de mesa para adultos mayores que se estan adaptando nuevamente a la comunidad luego de vivir en la calle"
   },
   {
     "imagen": "img/5.webp",
-    "titulo": "Taller 4: ClickNotes (Notas magnéticas)",
+    "titulo": "Taller 4: ClickNotes",
     "categoria": "Proyecto Examen",
-    "descripcion": "Trabajo de papelería, diseño para hombre referenciado de cubos rubik, magnético, hecho a mano"
+    "descripcion": "Trabajo de taco de notas, un diseño para hombre referenciado de cubos rubik, magnético, hecho a mano"
   },
   {
     "imagen": "img/6.webp",
@@ -43,13 +43,13 @@
   },
   {
     "imagen": "img/8.webp",
-    "titulo": "Katana de Tomioka Giyuu",
+    "titulo": "Katana",
     "categoria": "Elaboración digital",
     "descripcion": "Katana del anime Demon Slayer del personaje Tomioka Giyuu pintada a mano"
   },
   {
     "imagen": "img/9.webp",
-    "titulo": "Taller 4: Book (proceso)",
+    "titulo": "Taller 4: Book",
     "categoria": "Proyecto Examen",
     "descripcion": "Libro que detalla el proceso del estudiante a través de las etapas"
   },
@@ -72,4 +72,3 @@
     "descripcion": "Elaboración de packaging y marca de dulces japoneses: Mochis"
   }
 ]
-
