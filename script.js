@@ -12,7 +12,7 @@ async function datos(raw) {
                 <img src="${trabajo.imagen}" class="card-img-top" alt="${trabajo.titulo}">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">${trabajo.titulo}</h5>
-                    <p class="card-text text-muted text-dark">${trabajo.descripcion}</p>
+                    <p class="card-text text-dark">${trabajo.descripcion}</p>
                     <div class="d-flex justify-content-between align-items-center mt-auto">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary disabled">${trabajo.categoria}</button>
@@ -30,3 +30,4 @@ async function datos(raw) {
 
 
 datos("https://raw.githubusercontent.com/Mikuby11/Clase_10/refs/heads/main/datos.json");
+
